@@ -45,7 +45,7 @@ int main()
         print("./code < "+testin+" > "+yourout);
         sol.open(testout,ios::in); // open testcase output file
         your.open(yourout,ios::in); // open your output file
-        bool wrong = true;
+        bool wrong = false;
         while(true)
         {
             char a = sol.get(),b = your.get();
