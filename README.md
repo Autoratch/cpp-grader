@@ -22,6 +22,8 @@ g++ grader.cpp && ./a.out
 ## Project Status
 
 Under development
+-Version 1: Run your code with input and check with output from testcase
+-Version 2: Generate testcase to test with correct code and your code 
 
 ## Developer
 Autoratch - Krittitee Ratchanan
