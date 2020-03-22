@@ -27,7 +27,7 @@ Under development
 
 -Version 2: Generate testcase to test with correct code and your code 
 
--Version 3: Let you set up the file names in text file (unreleased yet)
+-Version 3: Let you configure your file info in text file
 
 ## Developer
 Autoratch - Krittitee Ratchanan

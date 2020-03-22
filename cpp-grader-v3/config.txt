@@ -1,0 +1,6 @@
+// your code filename
+// correct code filename
+// testcase generator filename
+// testcase input filename
+// filename to store correct output
+// filename to store your output

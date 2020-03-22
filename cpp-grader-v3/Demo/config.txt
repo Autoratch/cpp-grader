@@ -1,0 +1,6 @@
+auto.cpp
+sol.cpp
+testgen.cpp
+1.in
+1.sol
+1.out
