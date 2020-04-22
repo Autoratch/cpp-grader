@@ -29,7 +29,7 @@ Under development
 
 -Version 3: Let you configure your file info in text file
 
--System version: Grader code with all testset in one run, put the system and grader file with your solution code in the testcase folder, run system and just wait
+-System version: Grade code with all testset in one run, put the system and grader file with your solution code in the testcase folder, run system and just wait
 
 ## Developer
 Autoratch - Krittitee Ratchanan
