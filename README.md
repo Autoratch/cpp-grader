@@ -12,12 +12,13 @@ or Download the zip file instead.
 
 Then put the grader file, code file, and testcase in the same directory.
 
+*For system version put both the grader and the system file in the directory.
+
 ## Usage
 
-Compile and run grader using this command.
-```bash
-g++ grader.cpp && ./a.out
-```
+For version 1, 2, and 3, compile and run grader.cpp
+
+For system version, compile and run system.cpp instead of grader
 
 ## Project Status
 
