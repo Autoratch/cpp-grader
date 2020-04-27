@@ -10,10 +10,6 @@ git clone git@github.com:Autoratch/cpp-grader.git
 ```
 or Download the zip file instead.
 
-Then put the grader file, code file, and testcase in the same directory.
-
-*For system version put both the grader and the system file in the directory.
-
 ## Usage
 
 For version 1, 2, and 3, compile and run grader.cpp
