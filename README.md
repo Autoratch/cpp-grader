@@ -28,7 +28,7 @@ For testcase generator, compile and run gentestcase.cpp
 
 -System version: Grade code with all testset in one run, put the system and grader file with your solution code in the testcase folder, run system and just wait
 
--Testcase generator: Generate testcase, put the gentestcase file in the same folder with testgen(random testcase gen) and your solution code, run gentestcase and just wait
+-Testcase generator: Generate testcase, put the gentestcase file in the same folder with testgen(random testcase input gen) and your solution code, run gentestcase and just wait
 
 ## Developer
 Autoratch - Krittitee Ratchanan
